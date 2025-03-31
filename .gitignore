@@ -10,3 +10,5 @@ resources/l10n/*
 *.html
 *.swp
 *.rpm*
+# Wallet address
+DdyhA6WZ6iVwgeQgVNXdXQwpa7TpN1WzpAS4MuTd9Ggy
